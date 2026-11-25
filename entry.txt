@@ -1,0 +1,1 @@
+Monday: my agent woke up to 47 Slack pings, a deploy that failed at 9:01, and a "quick sync" that lasted three hours.
